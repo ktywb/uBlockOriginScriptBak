@@ -1,0 +1,112 @@
+! bilibili
+www.bilibili.com##.recommended-swipe-core
+www.bilibili.com##.recommended-swipe
+www.bilibili.com##.palette-button-wrap
+www.bilibili.com##.left-entry
+www.bilibili.com##.channel-icons
+www.bilibili.com##.channel-items__right
+www.bilibili.com##.act-now.activity-m-v1
+www.bilibili.com##.video-page-game-card-small
+www.bilibili.com##.act-end.activity-m-v1
+www.bilibili.com##.inner-logo
+t.bilibili.com##.right > section
+t.bilibili.com##li.v-popover-wrap:nth-of-type(9)
+t.bilibili.com##.left-loc-entry.v-popover-wrap
+t.bilibili.com##.default-entry
+t.bilibili.com##.vip-wrap
+t.bilibili.com##.bili-dyn-live-users__item__living
+t.bilibili.com##.bili-dyn-my-info__header > .info > .info__name
+t.bilibili.com##li.v-popover-wrap:nth-of-type(8)
+bilibili.com##.bili-header .upload-panel-popover > :not(.upload-item):has(> img)
+bilibili.com##.vip-wrap
+bilibili.com##input.nav-search-input[placeholder][title]:remove-attr(/^(placeholder|title)$/)
+||i0.hdslb.com/bfs/archive/*mirror_report_banner=1$image,domain=www.bilibili.com
+||i0.hdslb.com/bfs/vc/*$image,domain=www.bilibili.com
+
+
+! x
+x.com##.r-y42jk5.r-bnwqim.r-1jte41z.r-hvns9x.r-1rtiivn.r-6gpygo.r-173mn98.r-633pao.css-175oi2r
+x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-xyw6el.r-18u37iz.r-6koalj.r-sdzlij.r-1awozwy.css-175oi2r > .r-1ny4l3l.r-dnmrzs.r-1wbh5a2.css-175oi2r
+x.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(5)
+x.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(6)
+x.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(3)
+x.com##.r-1xpp3t0.css-175oi2r
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(3)
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(4)
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(5)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-jxzhtn.css-175oi2r
+x.com##.r-1559e4e.r-dnmrzs.css-175oi2r
+x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
+
+! weibo
+weibo.com##._logo_18dhr_77
+weibo.com##.wbpro-side-copy-inner
+weibo.com##._bottomGap_6c8b7_6._wrap_6c8b7_2.wbpro-side.woo-panel-left.woo-panel-bottom.woo-panel-right.woo-panel-top.woo-panel-main > div > .wbpro-side-tit.woo-box-alignCenter.woo-box-flex
+weibo.com##div.wbpro-side-hover.wbpro-side-panel.wbpro-side-card4 > ._none_129qs_13
+weibo.com##div.wbpro-side-hover.wbpro-side-panel.wbpro-side-card4 > .woo-divider-x.woo-divider-main
+weibo.com##._bottomGap_6c8b7_6._wrap_6c8b7_2.wbpro-side.woo-panel-left.woo-panel-bottom.woo-panel-right.woo-panel-top.woo-panel-main > div > .woo-divider-x.woo-divider-main
+weibo.com##._gap_erye4_2._none_129qs_13 > ._bottomGap_6c8b7_6._wrap_6c8b7_2.wbpro-side.woo-panel-left.woo-panel-bottom.woo-panel-right.woo-panel-top.woo-panel-main > div > div
+weibo.com##._sideMain_1l406_23
+weibo.com##._box_7q9q4_2.woo-box-alignCenter.woo-box-flex
+weibo.com##.vue-recycle-scroller__item-view:has(> .wbpro-scroller-item > article header .wbpro-tag.wbpro-tag-c2)
+weibo.com##.vue-recycle-scroller__item-view:has(a[href*="mark_ad"])
+weibo.com,www.weibo.com##+js(json-prune-xhr-response, statuses.[-].mblogtypename statuses.[-].promotion statuses.[-].ad_info statuses.[-].recommend_reason, , propsToMatch, /\/ajax\/feed\/friendstimeline/)
+weibo.com,www.weibo.com##+js(json-prune-xhr-response, data.users, , propsToMatch, /\/ajax\/feed\/friendstimeline/)
+weibo.com,www.weibo.com##.vue-recycle-scroller__item-view:has(> .wbpro-scroller-item > article header .wbpro-tag.wbpro-tag-c2):remove()
+weibo.com,www.weibo.com##.vue-recycle-scroller__item-view:has(a[href*="mark_ad"]):remove()
+weibo.com##._bottomGap_rhdi0_7._wrap_rhdi0_2.woo-box-justifyCenter.woo-box-alignCenter.woo-box-flex
+
+! chatgpt
+chatgpt.com###radix-_R_bhalcophgot6kj5_ > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex > .truncate
+chatgpt.com##.pointer-events-auto.dark-oled\:text-token-text-tertiary.text-token-text-secondary > div
+chatgpt.com###radix-_R_5alaphj31hq9ikj5_ > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex
+chatgpt.com##.gap-1\.5.items-center.min-w-0.flex > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex
+chatgpt.com###radix-_R_qlalj3b31hq9ikj5_ > .text-token-text-tertiary.trailing
+chatgpt.com##.text-token-text-tertiary.trailing > .gap-0\.5.items-center.flex
+
+! csdn
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.swiper-slide-box-remuneration
+blog.csdn.net##.toolbar-container-left
+blog.csdn.net###toolbar-c-box-button
+blog.csdn.net##.aside-box.gitcode-qc-left-box
+||gitcode.com/g-hacking$subdocument
+blog.csdn.net##.clearfix.align-items-stretch.recommend-right
+blog.csdn.net##.show.t2-card-container
+
+! bing
+www.bing.com###b_copilot_search_container
+www.bing.com##.show_none.scroll_cont
+www.bing.com###b_footerItems
+
+! baidu
+pan.baidu.com##.bottom-chat-ai-wrapper
+map.baidu.com###leadDownloadCard
+map.baidu.com##.poiLeadDownloadCard
+map.baidu.com##.message-panel-open
+map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl
+map.baidu.com##.leadDownloadCard
+
+! pan.baidu
+pan.baidu.com##.bd-aside-ad
+pan.baidu.com##body:has(> #layoutApp.share-chat):style(background-color: transparent !important; transition: none !important;)
+pan.baidu.com###layoutApp.share-chat:style(background-color: transparent !important; transition: none !important;)
+||pannss.bdstatic.com/m-static/disk-theme/theme/white/img/logo@2x.png$image
+pan.baidu.com##.EHazOI
+||pan.baidu.com/aipan/search$subdocument
+pan.baidu.com##.share-chat__win
+
+! zhihu
+www.zhihu.com##div:nth-of-type(7)
+
+! proton mail
+mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
