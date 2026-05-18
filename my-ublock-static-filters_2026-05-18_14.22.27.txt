@@ -88,15 +88,15 @@ www.bing.com###b_copilot_search_container
 www.bing.com##.show_none.scroll_cont
 www.bing.com###b_footerItems
 
-! baidu
-pan.baidu.com##.bottom-chat-ai-wrapper
+! baidu.map
 map.baidu.com###leadDownloadCard
 map.baidu.com##.poiLeadDownloadCard
 map.baidu.com##.message-panel-open
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl
 map.baidu.com##.leadDownloadCard
 
-! pan.baidu
+! baidu.pan
+pan.baidu.com##.bottom-chat-ai-wrapper
 pan.baidu.com##.bd-aside-ad
 pan.baidu.com##body:has(> #layoutApp.share-chat):style(background-color: transparent !important; transition: none !important;)
 pan.baidu.com###layoutApp.share-chat:style(background-color: transparent !important; transition: none !important;)
@@ -104,9 +104,14 @@ pan.baidu.com###layoutApp.share-chat:style(background-color: transparent !import
 pan.baidu.com##.EHazOI
 ||pan.baidu.com/aipan/search$subdocument
 pan.baidu.com##.share-chat__win
+pan.baidu.com##.rights-desc
+pan.baidu.com##.join-btn-tip
 
 ! zhihu
 www.zhihu.com##div:nth-of-type(7)
 
 ! proton mail
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+
+
+
