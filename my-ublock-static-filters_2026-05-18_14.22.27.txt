@@ -94,6 +94,7 @@ map.baidu.com##.poiLeadDownloadCard
 map.baidu.com##.message-panel-open
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl
 map.baidu.com##.leadDownloadCard
+map.baidu.com##.trafficLeadDownloadCard
 
 ! baidu.pan
 pan.baidu.com##.bottom-chat-ai-wrapper
@@ -112,6 +113,5 @@ www.zhihu.com##div:nth-of-type(7)
 
 ! proton mail
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
-
 
 
