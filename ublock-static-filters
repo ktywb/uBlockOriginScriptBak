@@ -82,11 +82,17 @@ blog.csdn.net##.aside-box.gitcode-qc-left-box
 ||gitcode.com/g-hacking$subdocument
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
 blog.csdn.net##.show.t2-card-container
+blog.csdn.net##.toolbar-advert
 
 ! bing
 www.bing.com###b_copilot_search_container
 www.bing.com##.show_none.scroll_cont
 www.bing.com###b_footerItems
+
+! baidu
+www.baidu.com###con-ceiling-wrapper
+www.baidu.com###\32  > .new-pmd.cr-content
+www.baidu.com##div.xpath-log.result-op:nth-of-type(2)
 
 ! baidu.map
 map.baidu.com###leadDownloadCard
@@ -114,4 +120,26 @@ www.zhihu.com##div:nth-of-type(7)
 ! proton mail
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
 
+! eetop.cn
+bbs.eetop.cn###sitefocus
+www.eetop.cn##.alert_windows11
+www.eetop.cn##.alert_windows
+
+! cambridge dictionary
+dictionary.cambridge.org###onetrust-consent-sdk
+dictionary.cambridge.org##.lmt-10.lt2s.hfr-s > div
+dictionary.cambridge.org##li.hdib:nth-of-type(6)
+dictionary.cambridge.org##li.hdib:nth-of-type(7)
+dictionary.cambridge.org##.hax.han.lp-xs_l-25.lpl-20.lmb-0.hul-ib.hul-u.hdib-m.hdn
+dictionary.cambridge.org##li.hdib:nth-of-type(1)
+
+! amap
+www.amap.com##.usel.amap-app-download
+www.amap.com##.amap-copyright
+www.amap.com##.aipc-action-group__tool-item--tile.aipc-action-group__tool-item > div > .is-middle.aipc-action
+www.amap.com##.FooterInfo_footer__m1wW7
+
+! 2026年5月21日 https://wenku.csdn.net
+wenku.csdn.net##.top-bar
+wenku.csdn.net##.flex-hc.flex.fixed-tip
 
