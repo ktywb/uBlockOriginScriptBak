@@ -46,6 +46,7 @@ x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-jxzhtn.css-175oi2r
 x.com##.r-1559e4e.r-dnmrzs.css-175oi2r
 x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
+x.com##.r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-175oi2r > div.css-175oi2r > .r-1ifxtd0.css-175oi2r
 
 ! weibo
 weibo.com##._logo_18dhr_77
@@ -83,11 +84,14 @@ blog.csdn.net##.aside-box.gitcode-qc-left-box
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
 blog.csdn.net##.show.t2-card-container
 blog.csdn.net##.toolbar-advert
+wenku.csdn.net##.top-bar
+wenku.csdn.net##.flex-hc.flex.fixed-tip
 
 ! bing
 www.bing.com###b_copilot_search_container
 www.bing.com##.show_none.scroll_cont
 www.bing.com###b_footerItems
+www.bing.com###b_pole
 
 ! baidu
 www.baidu.com###con-ceiling-wrapper
@@ -116,6 +120,7 @@ pan.baidu.com##.join-btn-tip
 
 ! zhihu
 www.zhihu.com##div:nth-of-type(7)
+zhuanlan.zhihu.com##.css-woosw9
 
 ! proton mail
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
@@ -139,7 +144,8 @@ www.amap.com##.amap-copyright
 www.amap.com##.aipc-action-group__tool-item--tile.aipc-action-group__tool-item > div > .is-middle.aipc-action
 www.amap.com##.FooterInfo_footer__m1wW7
 
-! 2026年5月21日 https://wenku.csdn.net
-wenku.csdn.net##.top-bar
-wenku.csdn.net##.flex-hc.flex.fixed-tip
+
+
+
+
 
