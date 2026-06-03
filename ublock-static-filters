@@ -122,10 +122,14 @@ pan.baidu.com##.join-btn-tip
 www.zhihu.com##div:nth-of-type(7)
 zhuanlan.zhihu.com##.css-woosw9
 zhuanlan.zhihu.com##.Card.Pc-card
-zhuanlan.zhihu.com##.HotSearchCard
-zhuanlan.zhihu.com##.css-1plefh4
-zhuanlan.zhihu.com##a.css-44m30e:nth-of-type(5)
+zhihu.com##.HotSearchCard
+zhihu.com##.css-1plefh4
+zhihu.com##a.css-44m30e:nth-of-type(5)
 zhuanlan.zhihu.com##.pc-article-answer-big-img
+www.zhihu.com##.KfeCollection-CreateSaltCard
+www.zhihu.com##div.Card.Pc-card:nth-of-type(5)
+www.zhihu.com##.css-173vipd.Card
+www.zhihu.com##.css-2pfapc
 
 ! proton mail
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
@@ -152,6 +156,7 @@ www.amap.com##.FooterInfo_footer__m1wW7
 ! ippure
 ippure.com##.left-one.ippure-ads
 ippure.com##.right-one.ippure-ads
+
 
 
 
