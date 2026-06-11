@@ -22,6 +22,31 @@ bilibili.com##.vip-wrap
 bilibili.com##input.nav-search-input[placeholder][title]:remove-attr(/^(placeholder|title)$/)
 ||i0.hdslb.com/bfs/archive/*mirror_report_banner=1$image,domain=www.bilibili.com
 ||i0.hdslb.com/bfs/vc/*$image,domain=www.bilibili.com
+||i0.hdslb.com/bfs/live/9f9dfecb4005d5965243147182475ce6710ce487.png@1c.avif$image
+live.bilibili.com##.ts-dot-4.img-bright-filter.flip-view-image-ctnr
+live.bilibili.com##.w-100.over-hidden.p-relative.flip-view
+live.bilibili.com##.room-bg.p-fixed
+live.bilibili.com##html:style(--my-live-panel-bg: #dddddd !important;)
+live.bilibili.com##html[lab-style*="dark"]:style(--my-live-panel-bg: #242628 !important;)
+live.bilibili.com##.over-hidden.p-relative.w-100.brush-prompt
+live.bilibili.com##.startlive-btn
+live.bilibili.com##div.pointer.f-left.p-relative.h-100.shortcut-item:nth-of-type(4)
+live.bilibili.com##div.pointer.f-left.p-relative.h-100.shortcut-item:nth-of-type(3)
+live.bilibili.com##.border-box.convention-msg.chat-item
+live.bilibili.com##.gift-bubble-setting
+live.bilibili.com###combo-card
+
+live.bilibili.com##.out-part
+live.bilibili.com##.gift-corner-mark-ui.live-skin-coloration-area.base-panel.gift-panel
+live.bilibili.com##.gift-panel.p-relative.right-part.section
+
+live.bilibili.com###gift-control-vm:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
+live.bilibili.com###head-info-vm:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
+live.bilibili.com###rank-list-ctnr-box:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
+live.bilibili.com###rank-list-ctnr-box .rank-list-content:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important;)
+live.bilibili.com###rank-list-ctnr-box .tabs:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important;)
+live.bilibili.com###chat-control-panel-vm:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
+live.bilibili.com###control-panel-ctnr-box:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
 
 
 ! x
@@ -47,6 +72,8 @@ x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-jxzhtn.css
 x.com##.r-1559e4e.r-dnmrzs.css-175oi2r
 x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
 x.com##.r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-175oi2r > div.css-175oi2r > .r-1ifxtd0.css-175oi2r
+x.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
+twitter.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
 
 ! weibo
 weibo.com##._logo_18dhr_77
@@ -86,6 +113,7 @@ blog.csdn.net##.show.t2-card-container
 blog.csdn.net##.toolbar-advert
 wenku.csdn.net##.top-bar
 wenku.csdn.net##.flex-hc.flex.fixed-tip
+blog.csdn.net##.swiper-container-horizontal.swiper-container-initialized.swiper-remuneration-container
 
 ! bing
 www.bing.com###b_copilot_search_container
