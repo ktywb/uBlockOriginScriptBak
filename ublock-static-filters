@@ -47,7 +47,8 @@ live.bilibili.com###rank-list-ctnr-box .rank-list-content:style(background: var(
 live.bilibili.com###rank-list-ctnr-box .tabs:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important;)
 live.bilibili.com###chat-control-panel-vm:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
 live.bilibili.com###control-panel-ctnr-box:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
-
+live.bilibili.com##.new.rank-list-section.p-relative.live-skin-coloration-area
+t.bilibili.com##li.v-popover-wrap:nth-of-type(10)
 
 ! x
 x.com##.r-y42jk5.r-bnwqim.r-1jte41z.r-hvns9x.r-1rtiivn.r-6gpygo.r-173mn98.r-633pao.css-175oi2r
@@ -63,17 +64,19 @@ x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(3)
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(4)
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(5)
+
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-jxzhtn.css-175oi2r
 x.com##.r-1559e4e.r-dnmrzs.css-175oi2r
 x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
 x.com##.r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-175oi2r > div.css-175oi2r > .r-1ifxtd0.css-175oi2r
-x.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
-twitter.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
+! x.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
+! twitter.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
 
 ! weibo
 weibo.com##._logo_18dhr_77
@@ -100,6 +103,7 @@ chatgpt.com###radix-_R_5alaphj31hq9ikj5_ > .min-w-0 > .gap-2\.5.items-center.gro
 chatgpt.com##.gap-1\.5.items-center.min-w-0.flex > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex
 chatgpt.com###radix-_R_qlalj3b31hq9ikj5_ > .text-token-text-tertiary.trailing
 chatgpt.com##.text-token-text-tertiary.trailing > .gap-0\.5.items-center.flex
+chatgpt.com##.gap-2.items-center.min-w-0.flex > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex > .truncate
 
 ! csdn
 blog.csdn.net##.csdn-side-toolbar
@@ -185,6 +189,9 @@ www.amap.com##.FooterInfo_footer__m1wW7
 ippure.com##.left-one.ippure-ads
 ippure.com##.right-one.ippure-ads
 
+cnblogs
+www.cnblogs.com###blog_c1
+www.cnblogs.com###cnblogs_ch
 
 
 
