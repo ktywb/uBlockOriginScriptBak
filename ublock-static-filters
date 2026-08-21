@@ -49,6 +49,9 @@ live.bilibili.com###chat-control-panel-vm:style(background: var(--my-live-panel-
 live.bilibili.com###control-panel-ctnr-box:style(background: var(--my-live-panel-bg) !important; background-color: var(--my-live-panel-bg) !important; background-image: none !important; box-shadow: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;)
 live.bilibili.com##.new.rank-list-section.p-relative.live-skin-coloration-area
 t.bilibili.com##li.v-popover-wrap:nth-of-type(10)
+live.bilibili.com##.normal-row-ctnr > .right-section
+live.bilibili.com###shop-popover-vm
+
 
 ! x
 x.com##.r-y42jk5.r-bnwqim.r-1jte41z.r-hvns9x.r-1rtiivn.r-6gpygo.r-173mn98.r-633pao.css-175oi2r
@@ -110,14 +113,22 @@ blog.csdn.net##.csdn-side-toolbar
 blog.csdn.net##.swiper-slide-box-remuneration
 blog.csdn.net##.toolbar-container-left
 blog.csdn.net###toolbar-c-box-button
-blog.csdn.net##.aside-box.gitcode-qc-left-box
-||gitcode.com/g-hacking$subdocument
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
 blog.csdn.net##.show.t2-card-container
 blog.csdn.net##.toolbar-advert
 wenku.csdn.net##.top-bar
 wenku.csdn.net##.flex-hc.flex.fixed-tip
 blog.csdn.net##.swiper-container-horizontal.swiper-container-initialized.swiper-remuneration-container
+blog.csdn.net##.pcContainer_nyhkht5n
+blog.csdn.net###csdn-active-dialog
+blog.csdn.net##.aside-box.gitcode-qc-left-box
+||gitcode.com/g-hacking$subdocument
+gitcode.com##.home-nav-right
+! gitcode.com##.hl-search-input__native.devui-input__inner
+gitcode.com##.fadeInUp.g-header-search-recommend-item
+gitcode.com##.default.g-header-search-recommend-placeholder
+gitcode.com##.focus.g-header-search-recommend-placeholder
+gitcode.com##.spotlight-guide
 
 ! bing
 www.bing.com###b_copilot_search_container
@@ -162,6 +173,9 @@ www.zhihu.com##.KfeCollection-CreateSaltCard
 www.zhihu.com##div.Card.Pc-card:nth-of-type(5)
 www.zhihu.com##.css-173vipd.Card
 www.zhihu.com##.css-2pfapc
+www.zhihu.com##.css-1qyytj7.Question-sideColumn--sticky.Question-sideColumn > div > div.Card > .Card.Pc-card
+www.zhihu.com##.css-1qyytj7.Question-sideColumn--sticky.Question-sideColumn > div > div > .Card
+www.zhihu.com##.CornerButtonsGroup
 
 ! proton mail
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
@@ -192,6 +206,19 @@ ippure.com##.right-one.ippure-ads
 cnblogs
 www.cnblogs.com###blog_c1
 www.cnblogs.com###cnblogs_ch
+
+! google
+||www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-nutmeg-629-6753651837111089-law.gif$image
+www.google.com##.LS8OJ.LLD4me.o3j99
+www.google.com##.c93Gbe
+
+! deepl
+www.deepl.com###usercentrics-cmp-ui
+
+! reddit
+www.reddit.com##.fixed.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
+
+
 
 
 
