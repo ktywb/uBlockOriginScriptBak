@@ -80,6 +80,10 @@ x.com##.r-12vffkv.r-1p0dtai.r-1xcajam.r-1d2f490.r-zchlnj.r-aqfbo4.css-175oi2r
 x.com##.r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-175oi2r > div.css-175oi2r > .r-1ifxtd0.css-175oi2r
 ! x.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
 ! twitter.com##[data-testid="cellInnerDiv"]:has([data-testid="placementTracking"])
+x.com##.r-1udh08x.r-1xpp3t0.r-1h0z5md.r-18u37iz.r-1q9bdsx.css-g5y9jx
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-g5y9jx > .r-6416eg.r-o7ynqc.r-xyw6el.r-1777fci.r-18u37iz.r-1awozwy.r-dnmrzs.r-sdzlij.css-g5y9jx > .css-g5y9jx
+x.com##.r-12kyg2d.r-e7q0ms.css-g5y9jx
+
 
 ! weibo
 weibo.com##._logo_18dhr_77
@@ -99,7 +103,7 @@ weibo.com,www.weibo.com##.vue-recycle-scroller__item-view:has(> .wbpro-scroller-
 weibo.com,www.weibo.com##.vue-recycle-scroller__item-view:has(a[href*="mark_ad"]):remove()
 weibo.com##._bottomGap_rhdi0_7._wrap_rhdi0_2.woo-box-justifyCenter.woo-box-alignCenter.woo-box-flex
 
-! chatgpt
+! chatgpt & openai
 chatgpt.com###radix-_R_bhalcophgot6kj5_ > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex > .truncate
 chatgpt.com##.pointer-events-auto.dark-oled\:text-token-text-tertiary.text-token-text-secondary > div
 chatgpt.com###radix-_R_5alaphj31hq9ikj5_ > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex
@@ -107,6 +111,7 @@ chatgpt.com##.gap-1\.5.items-center.min-w-0.flex > .min-w-0 > .gap-2\.5.items-ce
 chatgpt.com###radix-_R_qlalj3b31hq9ikj5_ > .text-token-text-tertiary.trailing
 chatgpt.com##.text-token-text-tertiary.trailing > .gap-0\.5.items-center.flex
 chatgpt.com##.gap-2.items-center.min-w-0.flex > .min-w-0 > .gap-2\.5.items-center.grow.min-w-0.flex > .truncate
+chatgpt.com###modal-beacon
 
 ! csdn
 blog.csdn.net##.csdn-side-toolbar
@@ -129,6 +134,7 @@ gitcode.com##.fadeInUp.g-header-search-recommend-item
 gitcode.com##.default.g-header-search-recommend-placeholder
 gitcode.com##.focus.g-header-search-recommend-placeholder
 gitcode.com##.spotlight-guide
+aiot.csdn.net##div.v-transfer-dom:nth-of-type(9)
 
 ! bing
 www.bing.com###b_copilot_search_container
@@ -203,7 +209,7 @@ www.amap.com##.FooterInfo_footer__m1wW7
 ippure.com##.left-one.ippure-ads
 ippure.com##.right-one.ippure-ads
 
-cnblogs
+! cnblogs
 www.cnblogs.com###blog_c1
 www.cnblogs.com###cnblogs_ch
 
@@ -217,6 +223,10 @@ www.deepl.com###usercentrics-cmp-ui
 
 ! reddit
 www.reddit.com##.fixed.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
+
+
+! tencent
+cloud.tencent.com###community-top-header-product-container
 
 
 
